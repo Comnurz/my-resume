@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'slbandidas@gmail.com';
+$siteOwnersEmail = 'iamcagla@vatan.kebirhost.com';
 
 
 if($_POST) {
