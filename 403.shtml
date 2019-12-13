@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="css/not.css">
+<div class="overlay"></div>
+<div class="terminal">
+  <h1>Error <span class="errorcode">403</span></h1>
+  <p class="output">There is nothing for you it is forbiden</p>
+  <p class="output">Now go back <a href="index.html">this link</a></p>
+  <p class="output">Snatching</p>
+</div>

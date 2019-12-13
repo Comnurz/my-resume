@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="css/not.css">
+<div class="overlay"></div>
+<div class="terminal">
+  <h1>Error <span class="errorcode">401</span></h1>
+  <p class="output">You are must be hacker but i am not a chicken dude</p>
+  <p class="output">Go back with <a href="index.html">this link</a>
+  <p class="output">Good luck for next try</p>
+</div>

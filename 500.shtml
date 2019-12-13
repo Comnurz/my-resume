@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="css/not.css">
+<div class="overlay"></div>
+<div class="terminal">
+  <h1>Error <span class="errorcode">500</span></h1>
+  <p class="output">Oh no i am crashed</p>
+  <p class="output">Please help me</p>
+  <p class="output">Get me out</p>
+</div>
